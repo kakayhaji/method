@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="activites" type="Java Scratch" singleton="false">
+    <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../Program Files/Java/jdk-17.0.2" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+    <option name="MAIN_CLASS_NAME" value="kaka" />
+    <module name="avtivites" />
+    <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/kaka.java" />
+    <shortenClasspath name="NONE" />
+    <option name="VM_PARAMETERS" value="$JDKPath$" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
