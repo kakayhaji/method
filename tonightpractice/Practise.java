@@ -7,9 +7,7 @@ public class Practise {
 mathmatecalcheck math=new mathmatecalcheck();
         System.out.println("we have 5 question of  mathmaticaly ");
         inputlevelexam=math.LevelOfGame();
-        System.out.println(inputlevelexam);
        result= math.Exam(inputlevelexam);
-        System.out.println(result);
         System.out.println( math.result(result));
     }//main
 }//class
